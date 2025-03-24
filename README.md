@@ -1,6 +1,13 @@
 ## ahoj 👋
 Jsem honza a nechci sem psát moc věcí, ale abych mohl mýt školní účet, tak musím splnit strašně dlouhý seznam věcí, jako třeba readme.md, profilovka, nebo 2FA.
 
+Tak počkat, mám sem vypsat i zájmy, tak tady jsou:
+- programování
+- tenis
+- lyžování
+- zjišťování nových informaci a přemýšlení o světě
+- určitě další, ale na ty teď nemám čas.
+
 <!--
 **honzaHlavnicka/honzaHlavnicka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
