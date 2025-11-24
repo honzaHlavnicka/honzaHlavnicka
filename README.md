@@ -1,4 +1,5 @@
-![Honza](cover.png)
+jsem honza
+<!--![Honza](cover.png)-->
 <!--## ahoj 👋
 Jsem honza a nechci sem psát moc věcí, ale abych mohl mýt školní účet, tak musím splnit strašně dlouhý seznam věcí, jako třeba readme.md, profilovka, nebo 2FA.
 
